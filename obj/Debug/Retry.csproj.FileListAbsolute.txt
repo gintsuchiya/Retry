@@ -1,0 +1,7 @@
+C:\Users\tsuchiya\source\repos\Retry\Retry\bin\Debug\Retry.exe.config
+C:\Users\tsuchiya\source\repos\Retry\Retry\bin\Debug\Retry.exe
+C:\Users\tsuchiya\source\repos\Retry\Retry\bin\Debug\Retry.pdb
+C:\Users\tsuchiya\source\repos\Retry\Retry\obj\Debug\Retry.csprojAssemblyReference.cache
+C:\Users\tsuchiya\source\repos\Retry\Retry\obj\Debug\Retry.csproj.CoreCompileInputs.cache
+C:\Users\tsuchiya\source\repos\Retry\Retry\obj\Debug\Retry.exe
+C:\Users\tsuchiya\source\repos\Retry\Retry\obj\Debug\Retry.pdb
